@@ -1,0 +1,59 @@
+﻿生成启动时间为 2015/7/10 11:19:47。
+     1>项目“E:\OtherCode\正则表达式\pcre\pcre\pcre.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D PCRE_EXPORTS /D SUPPORT_PCRE8 /D HAVE_CONFIG_H /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt pcre_byte_order.c pcre_chartables.c pcre_compile.c pcre_config.c pcre_dfa_exec.c pcre_exec.c pcre_fullinfo.c pcre_get.c pcre_globals.c pcre_jit_compile.c pcre_maketables.c pcre_newline.c pcre_ord2utf8.c pcre_printint.c pcre_refcount.c pcre_string_utils.c pcre_study.c pcre_tables.c pcre_ucd.c pcre_valid_utf8.c pcre_version.c pcre_xclass.c
+         pcre_xclass.c
+         pcre_version.c
+         pcre_valid_utf8.c
+         pcre_ucd.c
+         pcre_tables.c
+         pcre_study.c
+         pcre_string_utils.c
+         pcre_refcount.c
+         pcre_printint.c
+         pcre_ord2utf8.c
+         pcre_newline.c
+         pcre_maketables.c
+         pcre_jit_compile.c
+         pcre_globals.c
+         pcre_get.c
+         pcre_fullinfo.c
+         pcre_exec.c
+         pcre_dfa_exec.c
+         pcre_config.c
+         pcre_compile.c
+         正在生成代码...
+         正在编译...
+         pcre_chartables.c
+         pcre_byte_order.c
+         正在生成代码...
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OtherCode\正则表达式\pcre\Debug\pcre.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"pcre.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\OtherCode\正则表达式\pcre\Debug\pcre.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OtherCode\正则表达式\pcre\Debug\pcre.lib" /MACHINE:X86 /DLL Debug\pcre_byte_order.obj
+         Debug\pcre_chartables.obj
+         Debug\pcre_compile.obj
+         Debug\pcre_config.obj
+         Debug\pcre_dfa_exec.obj
+         Debug\pcre_exec.obj
+         Debug\pcre_fullinfo.obj
+         Debug\pcre_get.obj
+         Debug\pcre_globals.obj
+         Debug\pcre_jit_compile.obj
+         Debug\pcre_maketables.obj
+         Debug\pcre_newline.obj
+         Debug\pcre_ord2utf8.obj
+         Debug\pcre_printint.obj
+         Debug\pcre_refcount.obj
+         Debug\pcre_string_utils.obj
+         Debug\pcre_study.obj
+         Debug\pcre_tables.obj
+         Debug\pcre_ucd.obj
+         Debug\pcre_valid_utf8.obj
+         Debug\pcre_version.obj
+         Debug\pcre_xclass.obj
+            正在创建库 E:\OtherCode\正则表达式\pcre\Debug\pcre.lib 和对象 E:\OtherCode\正则表达式\pcre\Debug\pcre.exp
+         pcre.vcxproj -> E:\OtherCode\正则表达式\pcre\Debug\pcre.dll
+     1>已完成生成项目“E:\OtherCode\正则表达式\pcre\pcre\pcre.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.20

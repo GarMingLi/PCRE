@@ -1,0 +1,11 @@
+LIBRARY pcre
+EXPORTS
+pcre_compile
+pcre_exec
+;pcre_fullinfo
+;pcre_maketables
+;pcre_printint
+;pcre_refcount
+pcre_study
+pcre_version
+;剩余函数自己添加
